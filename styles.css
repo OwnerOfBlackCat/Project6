@@ -27,6 +27,7 @@
     display: flex;
     flex-wrap: wrap;
     padding: 23px;
+    gap: 20px;
     justify-content: center;
     align-items: center;
 }
@@ -50,10 +51,6 @@
     .section {
         margin-bottom: 20px;
     }
-    
-    .text-4 {
-        margin-bottom: 0;
-    }
 }
 
 
@@ -66,15 +63,5 @@
         height: 300px;
         width: 46%;
         font-size: 50px;
-    }
-
-    .text-1,
-    .text-2 {
-        margin-bottom: 20px;
-    }
-
-    .text-1,
-    .text-3 {
-        margin-right: 20px;
     }
 }
